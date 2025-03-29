@@ -1,0 +1,12 @@
+{
+    "type": "module",
+    "scripts": {
+        "dev": "vite --host",
+        "preview": "vite preview --host",
+        "build": "tsc && vite build"
+    },
+    "devDependencies": {
+        "typescript": "^5.8.2",
+        "vite": "^6.2.3"
+    }
+}
